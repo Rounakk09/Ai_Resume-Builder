@@ -1,0 +1,6 @@
+{
+  "name": "Golden Career",
+  "description": "AI-powered resume builder and career management platform featuring real-time ATS optimization, professional templates, smart phrasing suggestions, and job tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
